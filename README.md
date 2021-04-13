@@ -10,7 +10,7 @@
 
 • 손동작으로 미디어 컨트롤 
 
-![그림1](https://github.com/KM-Yeon/IMAGE/blob/master/그림1.png)
+![그림3](https://github.com/KM-Yeon/IMAGE/blob/master/그림3.png)
 
 
 :point_right:**적용 기술** : 
